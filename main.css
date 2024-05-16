@@ -1,0 +1,54 @@
+.navbar-brand {
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 250px;
+    padding: 20px;
+    color: white;
+}
+
+.navbar-brand:hover {
+    text-decoration: none;
+    color: white;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-image: url('https://img.freepik.com/free-photo/abstract-blur-empty-green-gradient-studio-well-use-as-background-website-template-frame-business-report_1258-52616.jpg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.form-control {
+    max-width: 300px;
+}
+
+.main-form {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.parent {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+
+.child {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin: 10px;
+}
